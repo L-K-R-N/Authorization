@@ -10,7 +10,7 @@
 npm i
 ```
 * Создайте базу данных и подключитесь к ней
-* В файле db.js измените значение полей user, password и database
+* В файле <a href="db.js">db.js</a> измените значение полей user, password и database
 * Вставьте команды из файла <a href="database.sql">database.sql</a>
 * Запустите проект
 ```shell

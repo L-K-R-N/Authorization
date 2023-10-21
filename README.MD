@@ -1,4 +1,4 @@
-## Simple authorization
+## Simple Authorization
 Простая авторизация на Express и PostgreSQL. Реализована логика доступа по ролям (ADMIN, USER и т.д.)
 
 
